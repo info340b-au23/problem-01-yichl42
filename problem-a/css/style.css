@@ -1,0 +1,45 @@
+body {
+    font-size: 16px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: aquamarine;
+}
+
+
+p {
+    line-height: 1.6;
+    background-color: aqua;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:darkslategrey
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center
+}
+
+img {
+    max-height: 350px;
+}
+
+.reason1 {
+    color: darkblue
+}
+
+.reason2 {
+    color:blueviolet
+}
+
+.reason3 {
+    color:chocolate
+}
+
+.reason4 {
+    color:crimson
+}
+
+.reason5 {
+    color:seagreen
+}
