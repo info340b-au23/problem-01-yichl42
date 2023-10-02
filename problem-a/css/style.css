@@ -6,40 +6,24 @@ body {
 
 
 p {
-    line-height: 1.6;
+    line-height: 1.5;
     background-color: aqua;
 }
 
 h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color:darkslategrey
+    color:darkslategrey;
+    text-align: center;
 }
 
-h2 {
-    font-family: 'Times New Roman', Times, serif;
-    text-align: center
+h3 {
+    font-family:'Times New Roman', Times, serif
 }
 
 img {
-    max-height: 350px;
+    max-height: 400px;
 }
 
-.reason1 {
-    color: darkblue
-}
-
-.reason2 {
-    color:blueviolet
-}
-
-.reason3 {
-    color:chocolate
-}
-
-.reason4 {
-    color:crimson
-}
-
-.reason5 {
-    color:seagreen
+.importantItem {
+    color: darkblue;
 }
