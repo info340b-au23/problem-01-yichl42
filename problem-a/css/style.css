@@ -1,13 +1,12 @@
 body {
     font-size: 16px;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    background-color: aquamarine;
+    background-color:beige;
 }
 
 
 p {
     line-height: 1.5;
-    background-color: aqua;
 }
 
 h1 {
